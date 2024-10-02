@@ -1,1 +1,1 @@
-This project is on Covid deaths and Covid vaccinations. This is the real data and I have did some data exploration using my sql.
+Developed SQL queries to analyze web-scraped COVID-19 data. Focused on data filtering, aggregation, and generating insights into case trends, recovery rates, and regional impact. The queries provided a clear understanding of key metrics, supporting data-driven analysis.
